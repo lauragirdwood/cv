@@ -48,12 +48,13 @@ body {
   }
   
   .resume-header {
-    background: #434E5E;
+    background: #295135;
     color: rgba(255, 255, 255, 0.9);
     height: 220px;
   }
   
-   .resume-header .picture {      
+   .resume-header .picture {    
+     margin-top: 10px;  
      padding: 1%;
      width: 180px;
   } 
@@ -88,6 +89,7 @@ body {
     border-radius: 0.125rem;
     background: white;
     color: #434E5E;
+    margin-top: 10px;
   }
   
   .resume-section-title {
